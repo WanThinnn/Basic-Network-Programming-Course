@@ -1,0 +1,84 @@
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\bin\Debug\net8.0-windows\Lab2.exe
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\bin\Debug\net8.0-windows\Lab2.deps.json
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\bin\Debug\net8.0-windows\Lab2.runtimeconfig.json
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\bin\Debug\net8.0-windows\Lab2.dll
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\bin\Debug\net8.0-windows\Lab2.pdb
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab_2.Bai_1.resources
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab_2.Bai_2.resources
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab_2.Bai_3.resources
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab_2.formLab2.resources
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.Task4.resources
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.Task5.resources
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.csproj.GenerateResource.cache
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.AssemblyInfoInputs.cache
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.AssemblyInfo.cs
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.csproj.CoreCompileInputs.cache
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.dll
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\refint\Lab2.dll
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.pdb
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.genruntimeconfig.cache
+D:\UIT\Semester_4\Lập trình Mạng\Lab\Lab2\Lab_2\obj\Debug\net8.0-windows\ref\Lab2.dll
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\bin\Debug\net8.0-windows\Lab2.exe
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\bin\Debug\net8.0-windows\Lab2.deps.json
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\bin\Debug\net8.0-windows\Lab2.runtimeconfig.json
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\bin\Debug\net8.0-windows\Lab2.dll
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\bin\Debug\net8.0-windows\Lab2.pdb
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab_2.Bai_1.resources
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab_2.Bai_2.resources
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab_2.Bai_3.resources
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab_2.formLab2.resources
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.csproj.GenerateResource.cache
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.AssemblyInfoInputs.cache
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.AssemblyInfo.cs
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.dll
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\refint\Lab2.dll
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.pdb
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.genruntimeconfig.cache
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\ref\Lab2.dll
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.Bai_4.resources
+C:\Users\Thien\Downloads\lab_ltmcb_ddt\Lab2\Lab_2\obj\Debug\net8.0-windows\Lab2.Bai_5.resources
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\bin\Debug\net8.0-windows\Lab2.exe
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\bin\Debug\net8.0-windows\Lab2.deps.json
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\bin\Debug\net8.0-windows\Lab2.runtimeconfig.json
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\bin\Debug\net8.0-windows\Lab2.dll
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\bin\Debug\net8.0-windows\Lab2.pdb
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab_2.Bai_1.resources
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab_2.Bai_2.resources
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab_2.Bai_3.resources
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.Bai_4.resources
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.Bai_5.resources
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab_2.formLab2.resources
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.csproj.GenerateResource.cache
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.AssemblyInfoInputs.cache
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.AssemblyInfo.cs
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.csproj.CoreCompileInputs.cache
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.dll
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\refint\Lab2.dll
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.pdb
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.genruntimeconfig.cache
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\ref\Lab2.dll
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\bin\Debug\net8.0-windows\Lab2.exe
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\bin\Debug\net8.0-windows\Lab2.deps.json
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\bin\Debug\net8.0-windows\Lab2.runtimeconfig.json
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\bin\Debug\net8.0-windows\Lab2.dll
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\bin\Debug\net8.0-windows\Lab2.pdb
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab_2.Bai_1.resources
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab_2.Bai_2.resources
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab_2.Bai_3.resources
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.Bai_4.resources
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.Bai_5.resources
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab_2.formLab2.resources
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.csproj.GenerateResource.cache
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.AssemblyInfoInputs.cache
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.AssemblyInfo.cs
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.csproj.CoreCompileInputs.cache
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.dll
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\refint\Lab2.dll
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.pdb
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\Lab2.genruntimeconfig.cache
+C:\Hoc_Ky_2\LapTrinhMang\Lab_2_New\Lab_2_New\Lab_2\obj\Debug\net8.0-windows\ref\Lab2.dll

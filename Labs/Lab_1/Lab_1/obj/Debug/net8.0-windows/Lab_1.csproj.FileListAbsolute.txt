@@ -1,0 +1,207 @@
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.exe
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.deps.json
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.runtimeconfig.json
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.dll
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.pdb
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Bai_1.resources
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.GenerateResource.cache
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.AssemblyInfoInputs.cache
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.AssemblyInfo.cs
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.dll
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\obj\Debug\net8.0-windows\refint\Lab_1.dll
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.pdb
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.genruntimeconfig.cache
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\obj\Debug\net8.0-windows\ref\Lab_1.dll
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Lab_1.resources
+C:\Users\Thien\Downloads\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.exe
+C:\Users\Thien\Downloads\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.deps.json
+C:\Users\Thien\Downloads\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.runtimeconfig.json
+C:\Users\Thien\Downloads\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.dll
+C:\Users\Thien\Downloads\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.pdb
+C:\Users\Thien\Downloads\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Bai_1.resources
+C:\Users\Thien\Downloads\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Lab_1.resources
+C:\Users\Thien\Downloads\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.GenerateResource.cache
+C:\Users\Thien\Downloads\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\Downloads\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.AssemblyInfoInputs.cache
+C:\Users\Thien\Downloads\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.AssemblyInfo.cs
+C:\Users\Thien\Downloads\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Downloads\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.dll
+C:\Users\Thien\Downloads\Lab_1\Lab_1\obj\Debug\net8.0-windows\refint\Lab_1.dll
+C:\Users\Thien\Downloads\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.pdb
+C:\Users\Thien\Downloads\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.genruntimeconfig.cache
+C:\Users\Thien\Downloads\Lab_1\Lab_1\obj\Debug\net8.0-windows\ref\Lab_1.dll
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.exe
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.deps.json
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.runtimeconfig.json
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.dll
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.pdb
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Bai_1.resources
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Lab_1.resources
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.GenerateResource.cache
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.AssemblyInfoInputs.cache
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.AssemblyInfo.cs
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.dll
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\obj\Debug\net8.0-windows\refint\Lab_1.dll
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.pdb
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.genruntimeconfig.cache
+C:\Users\Thien\OneDrive - Trường ĐH CNTT - University of Information Technology\Đại Học Công Nghệ Thông Tin\Năm 2\HK2\Lập Trình Mạng Căn Bản\Thực Hành\LTMCB_Lab_1\Lab_1\Lab_1\obj\Debug\net8.0-windows\ref\Lab_1.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.exe
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.deps.json
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.runtimeconfig.json
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.pdb
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Bai_1.resources
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Lab_1.resources
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.GenerateResource.cache
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.AssemblyInfoInputs.cache
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.AssemblyInfo.cs
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.CoreCompileInputs.cache
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.dll
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\refint\Lab_1.dll
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.pdb
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.genruntimeconfig.cache
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\ref\Lab_1.dll
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Bai_2.resources
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Bai_3_2.resources
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Bai_4.resources
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\af\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\ar\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\az\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\bg\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\bn-BD\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\cs\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\da\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\de\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\el\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\es\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\fa\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\fi-FI\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\fr\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\fr-BE\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\he\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\hr\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\hu\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\hy\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\id\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\is\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\it\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\ja\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\ko-KR\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\ku\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\lv\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\ms-MY\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\mt\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\nb\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\nb-NO\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\nl\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\pl\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\pt\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\ro\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\ru\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\sk\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\sl\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\sr\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\sr-Latn\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\sv\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\th-TH\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\tr\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\uk\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\uz-Latn-UZ\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\vi\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\zh-CN\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\zh-Hans\Humanizer.resources.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\zh-Hant\Humanizer.resources.dll
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.AssemblyReference.cache
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.Up2Date
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Lab_1\Lab_1\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Interop.Accessibility.dll
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.ResolveComReference.cache
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Bai_5.resources
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Properties.Resources.resources
+C:\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Test.resources
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.exe
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.deps.json
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.runtimeconfig.json
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\Lab_1.pdb
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\af\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\ar\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\az\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\bg\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\bn-BD\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\cs\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\da\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\de\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\el\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\es\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\fa\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\fi-FI\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\fr\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\fr-BE\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\he\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\hr\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\hu\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\hy\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\id\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\is\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\it\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\ja\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\ko-KR\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\ku\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\lv\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\ms-MY\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\mt\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\nb\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\nb-NO\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\nl\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\pl\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\pt\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\ro\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\ru\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\sk\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\sl\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\sr\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\sr-Latn\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\sv\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\th-TH\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\tr\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\uk\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\uz-Latn-UZ\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\vi\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\zh-CN\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\zh-Hans\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\bin\Debug\net8.0-windows\zh-Hant\Humanizer.resources.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.AssemblyReference.cache
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Interop.Accessibility.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.ResolveComReference.cache
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Bai_1.resources
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Bai_2.resources
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Bai_3_2.resources
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Bai_4.resources
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Bai_5.resources
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Lab_1.resources
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Properties.Resources.resources
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.Test.resources
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.GenerateResource.cache
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.AssemblyInfoInputs.cache
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.AssemblyInfo.cs
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.CoreCompileInputs.cache
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.csproj.Up2Date
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\refint\Lab_1.dll
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.pdb
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\Lab_1.genruntimeconfig.cache
+C:\Hoc_Ky_2\LTMCB\Lab_1\Lab_1\obj\Debug\net8.0-windows\ref\Lab_1.dll

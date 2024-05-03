@@ -1,0 +1,4 @@
+C:\Drive\code\N2\LT Mang\New folder\Winform-Application-Project\TestWebServices\TestWebServices\obj\Debug\TestWebServices.csproj.AssemblyReference.cache
+C:\Drive\code\N2\LT Mang\New folder\Winform-Application-Project\TestWebServices\TestWebServices\obj\Debug\TestWebServices.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Downloads\TestWebServices\TestWebServices\TestWebServices\obj\Debug\TestWebServices.csproj.AssemblyReference.cache
+C:\Users\Thien\Downloads\TestWebServices\TestWebServices\TestWebServices\obj\Debug\TestWebServices.csproj.CoreCompileInputs.cache

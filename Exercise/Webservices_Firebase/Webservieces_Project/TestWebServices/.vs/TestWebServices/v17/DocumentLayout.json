@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thien\\Downloads\\TestWebServices\\TestWebServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65055C1B-F49C-49B3-A02A-B840821B8A70}|TestWebServices\\TestWebServices.csproj|c:\\users\\thien\\downloads\\testwebservices\\testwebservices\\testwebservices\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65055C1B-F49C-49B3-A02A-B840821B8A70}|TestWebServices\\TestWebServices.csproj|solutionrelative:testwebservices\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebService1.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Thien\\Downloads\\TestWebServices\\TestWebServices\\TestWebServices\\WebService1.asmx.cs",
+              "RelativeDocumentMoniker": "TestWebServices\\WebService1.asmx.cs",
+              "ToolTip": "C:\\Users\\Thien\\Downloads\\TestWebServices\\TestWebServices\\TestWebServices\\WebService1.asmx.cs",
+              "RelativeToolTip": "TestWebServices\\WebService1.asmx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:13:42.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
